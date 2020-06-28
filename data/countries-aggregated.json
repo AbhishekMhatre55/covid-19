@@ -197024,9 +197024,9 @@
   {
     "Date": "2020-06-19",
     "Country": "Peru",
-    "Confirmed": 244388,
-    "Recovered": 131190,
-    "Deaths": 7461
+    "Confirmed": 247925,
+    "Recovered": 135520,
+    "Deaths": 7660
   },
   {
     "Date": "2020-06-19",
@@ -198620,9 +198620,9 @@
   {
     "Date": "2020-06-20",
     "Country": "US",
-    "Confirmed": 2255119,
+    "Confirmed": 2255297,
     "Recovered": 617460,
-    "Deaths": 119719
+    "Deaths": 119720
   },
   {
     "Date": "2020-06-20",
@@ -199656,9 +199656,9 @@
   {
     "Date": "2020-06-21",
     "Country": "Peru",
-    "Confirmed": 251338,
+    "Confirmed": 254936,
     "Recovered": 141967,
-    "Deaths": 7861
+    "Deaths": 8045
   },
   {
     "Date": "2020-06-21",
@@ -199936,9 +199936,9 @@
   {
     "Date": "2020-06-21",
     "Country": "US",
-    "Confirmed": 2281290,
+    "Confirmed": 2281655,
     "Recovered": 622133,
-    "Deaths": 119977
+    "Deaths": 119979
   },
   {
     "Date": "2020-06-21",
@@ -201345,6 +201345,5270 @@
     "Country": "Zimbabwe",
     "Confirmed": 512,
     "Recovered": 64,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Afghanistan",
+    "Confirmed": 29481,
+    "Recovered": 9260,
+    "Deaths": 618
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Albania",
+    "Confirmed": 2047,
+    "Recovered": 1195,
+    "Deaths": 45
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Algeria",
+    "Confirmed": 12076,
+    "Recovered": 8674,
+    "Deaths": 861
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Andorra",
+    "Confirmed": 855,
+    "Recovered": 797,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Angola",
+    "Confirmed": 189,
+    "Recovered": 77,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Antigua and Barbuda",
+    "Confirmed": 26,
+    "Recovered": 22,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Argentina",
+    "Confirmed": 47203,
+    "Recovered": 13576,
+    "Deaths": 1078
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Armenia",
+    "Confirmed": 21006,
+    "Recovered": 10144,
+    "Deaths": 372
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Australia",
+    "Confirmed": 7521,
+    "Recovered": 6924,
+    "Deaths": 103
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Austria",
+    "Confirmed": 17408,
+    "Recovered": 16261,
+    "Deaths": 693
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Azerbaijan",
+    "Confirmed": 13715,
+    "Recovered": 7503,
+    "Deaths": 167
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bahamas",
+    "Confirmed": 104,
+    "Recovered": 83,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bahrain",
+    "Confirmed": 23062,
+    "Recovered": 17450,
+    "Deaths": 67
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bangladesh",
+    "Confirmed": 119198,
+    "Recovered": 47635,
+    "Deaths": 1545
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Barbados",
+    "Confirmed": 97,
+    "Recovered": 85,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Belarus",
+    "Confirmed": 59487,
+    "Recovered": 38688,
+    "Deaths": 357
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Belgium",
+    "Confirmed": 60810,
+    "Recovered": 16771,
+    "Deaths": 9713
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Belize",
+    "Confirmed": 23,
+    "Recovered": 17,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Benin",
+    "Confirmed": 850,
+    "Recovered": 272,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bhutan",
+    "Confirmed": 70,
+    "Recovered": 34,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bolivia",
+    "Confirmed": 26389,
+    "Recovered": 6300,
+    "Deaths": 846
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bosnia and Herzegovina",
+    "Confirmed": 3588,
+    "Recovered": 2285,
+    "Deaths": 172
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Botswana",
+    "Confirmed": 89,
+    "Recovered": 25,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Brazil",
+    "Confirmed": 1145906,
+    "Recovered": 627963,
+    "Deaths": 52645
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Brunei",
+    "Confirmed": 141,
+    "Recovered": 138,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Bulgaria",
+    "Confirmed": 4114,
+    "Recovered": 2217,
+    "Deaths": 208
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Burkina Faso",
+    "Confirmed": 907,
+    "Recovered": 823,
+    "Deaths": 53
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Burma",
+    "Confirmed": 292,
+    "Recovered": 204,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Burundi",
+    "Confirmed": 144,
+    "Recovered": 93,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Cabo Verde",
+    "Confirmed": 982,
+    "Recovered": 426,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Cambodia",
+    "Confirmed": 130,
+    "Recovered": 127,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Cameroon",
+    "Confirmed": 12270,
+    "Recovered": 7774,
+    "Deaths": 313
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Canada",
+    "Confirmed": 103767,
+    "Recovered": 66135,
+    "Deaths": 8512
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Central African Republic",
+    "Confirmed": 3051,
+    "Recovered": 522,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Chad",
+    "Confirmed": 860,
+    "Recovered": 757,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Chile",
+    "Confirmed": 250767,
+    "Recovered": 210570,
+    "Deaths": 4505
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "China",
+    "Confirmed": 84653,
+    "Recovered": 79555,
+    "Deaths": 4640
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Colombia",
+    "Confirmed": 73760,
+    "Recovered": 30517,
+    "Deaths": 2524
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Comoros",
+    "Confirmed": 265,
+    "Recovered": 159,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Congo (Brazzaville)",
+    "Confirmed": 1087,
+    "Recovered": 456,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Congo (Kinshasa)",
+    "Confirmed": 6027,
+    "Recovered": 861,
+    "Deaths": 135
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Costa Rica",
+    "Confirmed": 2368,
+    "Recovered": 1129,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Cote d'Ivoire",
+    "Confirmed": 7904,
+    "Recovered": 3182,
+    "Deaths": 58
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Croatia",
+    "Confirmed": 2366,
+    "Recovered": 2142,
+    "Deaths": 107
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Cuba",
+    "Confirmed": 2318,
+    "Recovered": 2123,
+    "Deaths": 85
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Cyprus",
+    "Confirmed": 990,
+    "Recovered": 824,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Czechia",
+    "Confirmed": 10650,
+    "Recovered": 7555,
+    "Deaths": 339
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Denmark",
+    "Confirmed": 12761,
+    "Recovered": 11593,
+    "Deaths": 603
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Diamond Princess",
+    "Confirmed": 712,
+    "Recovered": 651,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Djibouti",
+    "Confirmed": 4617,
+    "Recovered": 3989,
+    "Deaths": 49
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Dominica",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Dominican Republic",
+    "Confirmed": 27936,
+    "Recovered": 15551,
+    "Deaths": 675
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Ecuador",
+    "Confirmed": 51643,
+    "Recovered": 24991,
+    "Deaths": 4274
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Egypt",
+    "Confirmed": 58141,
+    "Recovered": 15535,
+    "Deaths": 2365
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "El Salvador",
+    "Confirmed": 4973,
+    "Recovered": 2814,
+    "Deaths": 113
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Equatorial Guinea",
+    "Confirmed": 1664,
+    "Recovered": 515,
+    "Deaths": 32
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Eritrea",
+    "Confirmed": 143,
+    "Recovered": 39,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Estonia",
+    "Confirmed": 1982,
+    "Recovered": 1771,
+    "Deaths": 69
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Eswatini",
+    "Confirmed": 674,
+    "Recovered": 319,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Ethiopia",
+    "Confirmed": 4848,
+    "Recovered": 1412,
+    "Deaths": 75
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Fiji",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Finland",
+    "Confirmed": 7155,
+    "Recovered": 6400,
+    "Deaths": 327
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "France",
+    "Confirmed": 197804,
+    "Recovered": 74995,
+    "Deaths": 29723
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Gabon",
+    "Confirmed": 4849,
+    "Recovered": 2107,
+    "Deaths": 39
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Gambia",
+    "Confirmed": 42,
+    "Recovered": 26,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Georgia",
+    "Confirmed": 911,
+    "Recovered": 768,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Germany",
+    "Confirmed": 192480,
+    "Recovered": 175825,
+    "Deaths": 8914
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Ghana",
+    "Confirmed": 14568,
+    "Recovered": 10907,
+    "Deaths": 95
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Greece",
+    "Confirmed": 3302,
+    "Recovered": 1374,
+    "Deaths": 190
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Grenada",
+    "Confirmed": 23,
+    "Recovered": 23,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Guatemala",
+    "Confirmed": 14540,
+    "Recovered": 2897,
+    "Deaths": 582
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Guinea",
+    "Confirmed": 5040,
+    "Recovered": 3685,
+    "Deaths": 28
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Guinea-Bissau",
+    "Confirmed": 1556,
+    "Recovered": 191,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Guyana",
+    "Confirmed": 206,
+    "Recovered": 107,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Haiti",
+    "Confirmed": 5324,
+    "Recovered": 436,
+    "Deaths": 89
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Holy See",
+    "Confirmed": 12,
+    "Recovered": 12,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Honduras",
+    "Confirmed": 13943,
+    "Recovered": 1461,
+    "Deaths": 405
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Hungary",
+    "Confirmed": 4107,
+    "Recovered": 2600,
+    "Deaths": 573
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Iceland",
+    "Confirmed": 1824,
+    "Recovered": 1806,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "India",
+    "Confirmed": 456183,
+    "Recovered": 258685,
+    "Deaths": 14476
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Indonesia",
+    "Confirmed": 47896,
+    "Recovered": 19241,
+    "Deaths": 2535
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Iran",
+    "Confirmed": 209970,
+    "Recovered": 169160,
+    "Deaths": 9863
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Iraq",
+    "Confirmed": 34502,
+    "Recovered": 15753,
+    "Deaths": 1251
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Ireland",
+    "Confirmed": 25391,
+    "Recovered": 22698,
+    "Deaths": 1720
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Israel",
+    "Confirmed": 21512,
+    "Recovered": 15869,
+    "Deaths": 308
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Italy",
+    "Confirmed": 238833,
+    "Recovered": 184585,
+    "Deaths": 34675
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Jamaica",
+    "Confirmed": 670,
+    "Recovered": 518,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Japan",
+    "Confirmed": 17879,
+    "Recovered": 16096,
+    "Deaths": 965
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Jordan",
+    "Confirmed": 1047,
+    "Recovered": 772,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Kazakhstan",
+    "Confirmed": 18765,
+    "Recovered": 11514,
+    "Deaths": 134
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Kenya",
+    "Confirmed": 4952,
+    "Recovered": 1782,
+    "Deaths": 128
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Korea, South",
+    "Confirmed": 12535,
+    "Recovered": 10930,
+    "Deaths": 281
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Kosovo",
+    "Confirmed": 2169,
+    "Recovered": 1047,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Kuwait",
+    "Confirmed": 41033,
+    "Recovered": 32304,
+    "Deaths": 334
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Kyrgyzstan",
+    "Confirmed": 3726,
+    "Recovered": 2082,
+    "Deaths": 42
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Laos",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Latvia",
+    "Confirmed": 1111,
+    "Recovered": 903,
+    "Deaths": 30
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Lebanon",
+    "Confirmed": 1622,
+    "Recovered": 1098,
+    "Deaths": 32
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Lesotho",
+    "Confirmed": 17,
+    "Recovered": 2,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Liberia",
+    "Confirmed": 652,
+    "Recovered": 270,
+    "Deaths": 34
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Libya",
+    "Confirmed": 639,
+    "Recovered": 132,
+    "Deaths": 17
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Liechtenstein",
+    "Confirmed": 86,
+    "Recovered": 72,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Lithuania",
+    "Confirmed": 1803,
+    "Recovered": 1483,
+    "Deaths": 77
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Luxembourg",
+    "Confirmed": 4133,
+    "Recovered": 3959,
+    "Deaths": 110
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "MS Zaandam",
+    "Confirmed": 9,
+    "Recovered": 0,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Madagascar",
+    "Confirmed": 1724,
+    "Recovered": 732,
+    "Deaths": 15
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Malawi",
+    "Confirmed": 803,
+    "Recovered": 258,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Malaysia",
+    "Confirmed": 8590,
+    "Recovered": 8186,
+    "Deaths": 121
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Maldives",
+    "Confirmed": 2238,
+    "Recovered": 1813,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Mali",
+    "Confirmed": 1978,
+    "Recovered": 1302,
+    "Deaths": 111
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Malta",
+    "Confirmed": 665,
+    "Recovered": 618,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Mauritania",
+    "Confirmed": 3292,
+    "Recovered": 963,
+    "Deaths": 114
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Mauritius",
+    "Confirmed": 340,
+    "Recovered": 326,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Mexico",
+    "Confirmed": 191410,
+    "Recovered": 143646,
+    "Deaths": 23377
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Moldova",
+    "Confirmed": 14714,
+    "Recovered": 8212,
+    "Deaths": 490
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Monaco",
+    "Confirmed": 101,
+    "Recovered": 95,
+    "Deaths": 4
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Mongolia",
+    "Confirmed": 215,
+    "Recovered": 168,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Montenegro",
+    "Confirmed": 378,
+    "Recovered": 315,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Morocco",
+    "Confirmed": 10344,
+    "Recovered": 8407,
+    "Deaths": 214
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Mozambique",
+    "Confirmed": 757,
+    "Recovered": 206,
+    "Deaths": 5
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Namibia",
+    "Confirmed": 72,
+    "Recovered": 21,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Nepal",
+    "Confirmed": 10099,
+    "Recovered": 2224,
+    "Deaths": 24
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Netherlands",
+    "Confirmed": 49930,
+    "Recovered": 186,
+    "Deaths": 6114
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "New Zealand",
+    "Confirmed": 1516,
+    "Recovered": 1483,
+    "Deaths": 22
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Nicaragua",
+    "Confirmed": 2170,
+    "Recovered": 1238,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Niger",
+    "Confirmed": 1051,
+    "Recovered": 913,
+    "Deaths": 67
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Nigeria",
+    "Confirmed": 21371,
+    "Recovered": 7338,
+    "Deaths": 533
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "North Macedonia",
+    "Confirmed": 5311,
+    "Recovered": 2048,
+    "Deaths": 251
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Norway",
+    "Confirmed": 8772,
+    "Recovered": 8138,
+    "Deaths": 248
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Oman",
+    "Confirmed": 32394,
+    "Recovered": 17279,
+    "Deaths": 140
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Pakistan",
+    "Confirmed": 188926,
+    "Recovered": 77754,
+    "Deaths": 3755
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Panama",
+    "Confirmed": 27314,
+    "Recovered": 14694,
+    "Deaths": 536
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Papua New Guinea",
+    "Confirmed": 9,
+    "Recovered": 8,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Paraguay",
+    "Confirmed": 1422,
+    "Recovered": 926,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Peru",
+    "Confirmed": 260810,
+    "Recovered": 148437,
+    "Deaths": 8404
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Philippines",
+    "Confirmed": 31825,
+    "Recovered": 8442,
+    "Deaths": 1186
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Poland",
+    "Confirmed": 32527,
+    "Recovered": 17573,
+    "Deaths": 1375
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Portugal",
+    "Confirmed": 39737,
+    "Recovered": 25829,
+    "Deaths": 1540
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Qatar",
+    "Confirmed": 89579,
+    "Recovered": 71501,
+    "Deaths": 99
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Romania",
+    "Confirmed": 24505,
+    "Recovered": 17187,
+    "Deaths": 1539
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Russia",
+    "Confirmed": 598878,
+    "Recovered": 355847,
+    "Deaths": 8349
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Rwanda",
+    "Confirmed": 798,
+    "Recovered": 371,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Saint Kitts and Nevis",
+    "Confirmed": 15,
+    "Recovered": 15,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Saint Lucia",
+    "Confirmed": 19,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Saint Vincent and the Grenadines",
+    "Confirmed": 29,
+    "Recovered": 27,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "San Marino",
+    "Confirmed": 698,
+    "Recovered": 632,
+    "Deaths": 42
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Sao Tome and Principe",
+    "Confirmed": 707,
+    "Recovered": 208,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Saudi Arabia",
+    "Confirmed": 164144,
+    "Recovered": 109885,
+    "Deaths": 1346
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Senegal",
+    "Confirmed": 6034,
+    "Recovered": 4046,
+    "Deaths": 89
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Serbia",
+    "Confirmed": 13092,
+    "Recovered": 12054,
+    "Deaths": 263
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Seychelles",
+    "Confirmed": 11,
+    "Recovered": 11,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Sierra Leone",
+    "Confirmed": 1347,
+    "Recovered": 853,
+    "Deaths": 55
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Singapore",
+    "Confirmed": 42432,
+    "Recovered": 35995,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Slovakia",
+    "Confirmed": 1589,
+    "Recovered": 1448,
+    "Deaths": 28
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Slovenia",
+    "Confirmed": 1534,
+    "Recovered": 1376,
+    "Deaths": 109
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Somalia",
+    "Confirmed": 2812,
+    "Recovered": 818,
+    "Deaths": 90
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "South Africa",
+    "Confirmed": 106108,
+    "Recovered": 55045,
+    "Deaths": 2102
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "South Sudan",
+    "Confirmed": 1930,
+    "Recovered": 217,
+    "Deaths": 36
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Spain",
+    "Confirmed": 246752,
+    "Recovered": 150376,
+    "Deaths": 28325
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Sri Lanka",
+    "Confirmed": 1991,
+    "Recovered": 1548,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Sudan",
+    "Confirmed": 8889,
+    "Recovered": 3699,
+    "Deaths": 548
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Suriname",
+    "Confirmed": 319,
+    "Recovered": 132,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Sweden",
+    "Confirmed": 60837,
+    "Recovered": 0,
+    "Deaths": 5161
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Switzerland",
+    "Confirmed": 31332,
+    "Recovered": 29000,
+    "Deaths": 1956
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Syria",
+    "Confirmed": 231,
+    "Recovered": 94,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Taiwan*",
+    "Confirmed": 446,
+    "Recovered": 435,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Tajikistan",
+    "Confirmed": 5567,
+    "Recovered": 4109,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Tanzania",
+    "Confirmed": 509,
+    "Recovered": 183,
+    "Deaths": 21
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Thailand",
+    "Confirmed": 3156,
+    "Recovered": 3023,
+    "Deaths": 58
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Timor-Leste",
+    "Confirmed": 24,
+    "Recovered": 24,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Togo",
+    "Confirmed": 576,
+    "Recovered": 384,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Trinidad and Tobago",
+    "Confirmed": 123,
+    "Recovered": 109,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Tunisia",
+    "Confirmed": 1159,
+    "Recovered": 1023,
+    "Deaths": 50
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Turkey",
+    "Confirmed": 190165,
+    "Recovered": 162848,
+    "Deaths": 5001
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "US",
+    "Confirmed": 2347491,
+    "Recovered": 647548,
+    "Deaths": 121231
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Uganda",
+    "Confirmed": 797,
+    "Recovered": 699,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Ukraine",
+    "Confirmed": 38901,
+    "Recovered": 17538,
+    "Deaths": 1045
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "United Arab Emirates",
+    "Confirmed": 45683,
+    "Recovered": 33703,
+    "Deaths": 305
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "United Kingdom",
+    "Confirmed": 307682,
+    "Recovered": 1330,
+    "Deaths": 43011
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Uruguay",
+    "Confirmed": 885,
+    "Recovered": 815,
+    "Deaths": 25
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Uzbekistan",
+    "Confirmed": 6662,
+    "Recovered": 4560,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Venezuela",
+    "Confirmed": 4187,
+    "Recovered": 1327,
+    "Deaths": 35
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Vietnam",
+    "Confirmed": 349,
+    "Recovered": 329,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "West Bank and Gaza",
+    "Confirmed": 1169,
+    "Recovered": 442,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Western Sahara",
+    "Confirmed": 10,
+    "Recovered": 8,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Yemen",
+    "Confirmed": 992,
+    "Recovered": 356,
+    "Deaths": 261
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Zambia",
+    "Confirmed": 1477,
+    "Recovered": 1213,
+    "Deaths": 18
+  },
+  {
+    "Date": "2020-06-23",
+    "Country": "Zimbabwe",
+    "Confirmed": 525,
+    "Recovered": 64,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Afghanistan",
+    "Confirmed": 29640,
+    "Recovered": 9869,
+    "Deaths": 639
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Albania",
+    "Confirmed": 2114,
+    "Recovered": 1217,
+    "Deaths": 47
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Algeria",
+    "Confirmed": 12248,
+    "Recovered": 8792,
+    "Deaths": 869
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Andorra",
+    "Confirmed": 855,
+    "Recovered": 797,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Angola",
+    "Confirmed": 197,
+    "Recovered": 77,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Antigua and Barbuda",
+    "Confirmed": 26,
+    "Recovered": 22,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Argentina",
+    "Confirmed": 49851,
+    "Recovered": 13816,
+    "Deaths": 1116
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Armenia",
+    "Confirmed": 21717,
+    "Recovered": 10797,
+    "Deaths": 386
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Australia",
+    "Confirmed": 7558,
+    "Recovered": 6931,
+    "Deaths": 104
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Austria",
+    "Confirmed": 17449,
+    "Recovered": 16282,
+    "Deaths": 693
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Azerbaijan",
+    "Confirmed": 14305,
+    "Recovered": 7768,
+    "Deaths": 174
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bahamas",
+    "Confirmed": 104,
+    "Recovered": 83,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bahrain",
+    "Confirmed": 23570,
+    "Recovered": 17977,
+    "Deaths": 69
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bangladesh",
+    "Confirmed": 122660,
+    "Recovered": 49666,
+    "Deaths": 1582
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Barbados",
+    "Confirmed": 97,
+    "Recovered": 85,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Belarus",
+    "Confirmed": 59945,
+    "Recovered": 40136,
+    "Deaths": 362
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Belgium",
+    "Confirmed": 60898,
+    "Recovered": 16771,
+    "Deaths": 9722
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Belize",
+    "Confirmed": 23,
+    "Recovered": 17,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Benin",
+    "Confirmed": 902,
+    "Recovered": 277,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bhutan",
+    "Confirmed": 70,
+    "Recovered": 34,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bolivia",
+    "Confirmed": 27487,
+    "Recovered": 6795,
+    "Deaths": 876
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bosnia and Herzegovina",
+    "Confirmed": 3676,
+    "Recovered": 2297,
+    "Deaths": 173
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Botswana",
+    "Confirmed": 92,
+    "Recovered": 25,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Brazil",
+    "Confirmed": 1188631,
+    "Recovered": 660469,
+    "Deaths": 53830
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Brunei",
+    "Confirmed": 141,
+    "Recovered": 138,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Bulgaria",
+    "Confirmed": 4242,
+    "Recovered": 2263,
+    "Deaths": 209
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Burkina Faso",
+    "Confirmed": 919,
+    "Recovered": 825,
+    "Deaths": 53
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Burma",
+    "Confirmed": 293,
+    "Recovered": 208,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Burundi",
+    "Confirmed": 144,
+    "Recovered": 93,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Cabo Verde",
+    "Confirmed": 999,
+    "Recovered": 479,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Cambodia",
+    "Confirmed": 130,
+    "Recovered": 127,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Cameroon",
+    "Confirmed": 12592,
+    "Recovered": 10100,
+    "Deaths": 313
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Canada",
+    "Confirmed": 104087,
+    "Recovered": 66533,
+    "Deaths": 8544
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Central African Republic",
+    "Confirmed": 3099,
+    "Recovered": 572,
+    "Deaths": 38
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Chad",
+    "Confirmed": 860,
+    "Recovered": 770,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Chile",
+    "Confirmed": 254416,
+    "Recovered": 215093,
+    "Deaths": 4731
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "China",
+    "Confirmed": 84673,
+    "Recovered": 79562,
+    "Deaths": 4640
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Colombia",
+    "Confirmed": 73760,
+    "Recovered": 30517,
+    "Deaths": 2524
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Comoros",
+    "Confirmed": 265,
+    "Recovered": 159,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Congo (Brazzaville)",
+    "Confirmed": 1087,
+    "Recovered": 456,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Congo (Kinshasa)",
+    "Confirmed": 6213,
+    "Recovered": 870,
+    "Deaths": 142
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Costa Rica",
+    "Confirmed": 2515,
+    "Recovered": 1210,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Cote d'Ivoire",
+    "Confirmed": 8164,
+    "Recovered": 3419,
+    "Deaths": 58
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Croatia",
+    "Confirmed": 2388,
+    "Recovered": 2145,
+    "Deaths": 107
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Cuba",
+    "Confirmed": 2319,
+    "Recovered": 2130,
+    "Deaths": 85
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Cyprus",
+    "Confirmed": 991,
+    "Recovered": 824,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Czechia",
+    "Confirmed": 10777,
+    "Recovered": 7588,
+    "Deaths": 343
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Denmark",
+    "Confirmed": 12815,
+    "Recovered": 11622,
+    "Deaths": 603
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Diamond Princess",
+    "Confirmed": 712,
+    "Recovered": 651,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Djibouti",
+    "Confirmed": 4630,
+    "Recovered": 4182,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Dominica",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Dominican Republic",
+    "Confirmed": 28631,
+    "Recovered": 16006,
+    "Deaths": 691
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Ecuador",
+    "Confirmed": 51643,
+    "Recovered": 24991,
+    "Deaths": 4274
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Egypt",
+    "Confirmed": 59561,
+    "Recovered": 15935,
+    "Deaths": 2450
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "El Salvador",
+    "Confirmed": 5150,
+    "Recovered": 2924,
+    "Deaths": 119
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Equatorial Guinea",
+    "Confirmed": 1664,
+    "Recovered": 515,
+    "Deaths": 32
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Eritrea",
+    "Confirmed": 144,
+    "Recovered": 39,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Estonia",
+    "Confirmed": 1983,
+    "Recovered": 1783,
+    "Deaths": 69
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Eswatini",
+    "Confirmed": 690,
+    "Recovered": 331,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Ethiopia",
+    "Confirmed": 5034,
+    "Recovered": 1486,
+    "Deaths": 78
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Fiji",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Finland",
+    "Confirmed": 7167,
+    "Recovered": 6600,
+    "Deaths": 327
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "France",
+    "Confirmed": 197885,
+    "Recovered": 75251,
+    "Deaths": 29734
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Gabon",
+    "Confirmed": 4956,
+    "Recovered": 2177,
+    "Deaths": 39
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Gambia",
+    "Confirmed": 42,
+    "Recovered": 26,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Georgia",
+    "Confirmed": 914,
+    "Recovered": 771,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Germany",
+    "Confirmed": 192871,
+    "Recovered": 176422,
+    "Deaths": 8928
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Ghana",
+    "Confirmed": 15013,
+    "Recovered": 11078,
+    "Deaths": 95
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Greece",
+    "Confirmed": 3310,
+    "Recovered": 1374,
+    "Deaths": 190
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Grenada",
+    "Confirmed": 23,
+    "Recovered": 23,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Guatemala",
+    "Confirmed": 14819,
+    "Recovered": 2930,
+    "Deaths": 601
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Guinea",
+    "Confirmed": 5174,
+    "Recovered": 3861,
+    "Deaths": 29
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Guinea-Bissau",
+    "Confirmed": 1556,
+    "Recovered": 191,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Guyana",
+    "Confirmed": 209,
+    "Recovered": 107,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Haiti",
+    "Confirmed": 5429,
+    "Recovered": 512,
+    "Deaths": 92
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Holy See",
+    "Confirmed": 12,
+    "Recovered": 12,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Honduras",
+    "Confirmed": 14571,
+    "Recovered": 1546,
+    "Deaths": 417
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Hungary",
+    "Confirmed": 4114,
+    "Recovered": 2618,
+    "Deaths": 576
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Iceland",
+    "Confirmed": 1824,
+    "Recovered": 1806,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "India",
+    "Confirmed": 473105,
+    "Recovered": 271697,
+    "Deaths": 14894
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Indonesia",
+    "Confirmed": 49009,
+    "Recovered": 19658,
+    "Deaths": 2573
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Iran",
+    "Confirmed": 212501,
+    "Recovered": 172096,
+    "Deaths": 9996
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Iraq",
+    "Confirmed": 36702,
+    "Recovered": 16814,
+    "Deaths": 1330
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Ireland",
+    "Confirmed": 25396,
+    "Recovered": 23364,
+    "Deaths": 1726
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Israel",
+    "Confirmed": 22044,
+    "Recovered": 15940,
+    "Deaths": 308
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Italy",
+    "Confirmed": 239410,
+    "Recovered": 186111,
+    "Deaths": 34644
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Jamaica",
+    "Confirmed": 678,
+    "Recovered": 521,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Japan",
+    "Confirmed": 17963,
+    "Recovered": 16101,
+    "Deaths": 967
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Jordan",
+    "Confirmed": 1071,
+    "Recovered": 782,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Kazakhstan",
+    "Confirmed": 19285,
+    "Recovered": 11882,
+    "Deaths": 136
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Kenya",
+    "Confirmed": 5206,
+    "Recovered": 1823,
+    "Deaths": 130
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Korea, South",
+    "Confirmed": 12563,
+    "Recovered": 10974,
+    "Deaths": 282
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Kosovo",
+    "Confirmed": 2169,
+    "Recovered": 1047,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Kuwait",
+    "Confirmed": 41879,
+    "Recovered": 32809,
+    "Deaths": 337
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Kyrgyzstan",
+    "Confirmed": 3954,
+    "Recovered": 2112,
+    "Deaths": 43
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Laos",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Latvia",
+    "Confirmed": 1111,
+    "Recovered": 903,
+    "Deaths": 30
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Lebanon",
+    "Confirmed": 1644,
+    "Recovered": 1103,
+    "Deaths": 33
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Lesotho",
+    "Confirmed": 17,
+    "Recovered": 2,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Liberia",
+    "Confirmed": 662,
+    "Recovered": 270,
+    "Deaths": 34
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Libya",
+    "Confirmed": 670,
+    "Recovered": 138,
+    "Deaths": 18
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Liechtenstein",
+    "Confirmed": 82,
+    "Recovered": 81,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Lithuania",
+    "Confirmed": 1804,
+    "Recovered": 1484,
+    "Deaths": 78
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Luxembourg",
+    "Confirmed": 4140,
+    "Recovered": 3965,
+    "Deaths": 110
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "MS Zaandam",
+    "Confirmed": 9,
+    "Recovered": 0,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Madagascar",
+    "Confirmed": 1787,
+    "Recovered": 779,
+    "Deaths": 16
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Malawi",
+    "Confirmed": 941,
+    "Recovered": 259,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Malaysia",
+    "Confirmed": 8596,
+    "Recovered": 8231,
+    "Deaths": 121
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Maldives",
+    "Confirmed": 2261,
+    "Recovered": 1839,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Mali",
+    "Confirmed": 2005,
+    "Recovered": 1354,
+    "Deaths": 112
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Malta",
+    "Confirmed": 665,
+    "Recovered": 624,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Mauritania",
+    "Confirmed": 3519,
+    "Recovered": 1074,
+    "Deaths": 116
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Mauritius",
+    "Confirmed": 341,
+    "Recovered": 326,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Mexico",
+    "Confirmed": 196847,
+    "Recovered": 148487,
+    "Deaths": 24324
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Moldova",
+    "Confirmed": 15078,
+    "Recovered": 8400,
+    "Deaths": 495
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Monaco",
+    "Confirmed": 102,
+    "Recovered": 95,
+    "Deaths": 4
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Mongolia",
+    "Confirmed": 216,
+    "Recovered": 169,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Montenegro",
+    "Confirmed": 389,
+    "Recovered": 315,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Morocco",
+    "Confirmed": 10907,
+    "Recovered": 8468,
+    "Deaths": 216
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Mozambique",
+    "Confirmed": 762,
+    "Recovered": 220,
+    "Deaths": 5
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Namibia",
+    "Confirmed": 76,
+    "Recovered": 21,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Nepal",
+    "Confirmed": 10728,
+    "Recovered": 2338,
+    "Deaths": 24
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Netherlands",
+    "Confirmed": 50012,
+    "Recovered": 186,
+    "Deaths": 6116
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "New Zealand",
+    "Confirmed": 1519,
+    "Recovered": 1484,
+    "Deaths": 22
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Nicaragua",
+    "Confirmed": 2170,
+    "Recovered": 1238,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Niger",
+    "Confirmed": 1051,
+    "Recovered": 913,
+    "Deaths": 67
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Nigeria",
+    "Confirmed": 22020,
+    "Recovered": 7613,
+    "Deaths": 542
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "North Macedonia",
+    "Confirmed": 5445,
+    "Recovered": 2091,
+    "Deaths": 259
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Norway",
+    "Confirmed": 8788,
+    "Recovered": 8138,
+    "Deaths": 249
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Oman",
+    "Confirmed": 33536,
+    "Recovered": 17972,
+    "Deaths": 142
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Pakistan",
+    "Confirmed": 192970,
+    "Recovered": 81307,
+    "Deaths": 3903
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Panama",
+    "Confirmed": 28030,
+    "Recovered": 14794,
+    "Deaths": 547
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Papua New Guinea",
+    "Confirmed": 10,
+    "Recovered": 8,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Paraguay",
+    "Confirmed": 1528,
+    "Recovered": 944,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Peru",
+    "Confirmed": 264689,
+    "Recovered": 151589,
+    "Deaths": 8586
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Philippines",
+    "Confirmed": 32295,
+    "Recovered": 8656,
+    "Deaths": 1204
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Poland",
+    "Confirmed": 32821,
+    "Recovered": 18134,
+    "Deaths": 1396
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Portugal",
+    "Confirmed": 40104,
+    "Recovered": 26083,
+    "Deaths": 1543
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Qatar",
+    "Confirmed": 90778,
+    "Recovered": 73083,
+    "Deaths": 104
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Romania",
+    "Confirmed": 24826,
+    "Recovered": 17391,
+    "Deaths": 1555
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Russia",
+    "Confirmed": 606043,
+    "Recovered": 368222,
+    "Deaths": 8503
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Rwanda",
+    "Confirmed": 830,
+    "Recovered": 376,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Saint Kitts and Nevis",
+    "Confirmed": 15,
+    "Recovered": 15,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Saint Lucia",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Saint Vincent and the Grenadines",
+    "Confirmed": 29,
+    "Recovered": 27,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "San Marino",
+    "Confirmed": 698,
+    "Recovered": 647,
+    "Deaths": 42
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Sao Tome and Principe",
+    "Confirmed": 710,
+    "Recovered": 211,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Saudi Arabia",
+    "Confirmed": 167267,
+    "Recovered": 112797,
+    "Deaths": 1387
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Senegal",
+    "Confirmed": 6129,
+    "Recovered": 4072,
+    "Deaths": 93
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Serbia",
+    "Confirmed": 13235,
+    "Recovered": 12111,
+    "Deaths": 263
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Seychelles",
+    "Confirmed": 11,
+    "Recovered": 11,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Sierra Leone",
+    "Confirmed": 1354,
+    "Recovered": 869,
+    "Deaths": 55
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Singapore",
+    "Confirmed": 42623,
+    "Recovered": 36299,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Slovakia",
+    "Confirmed": 1607,
+    "Recovered": 1448,
+    "Deaths": 28
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Slovenia",
+    "Confirmed": 1541,
+    "Recovered": 1376,
+    "Deaths": 109
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Somalia",
+    "Confirmed": 2835,
+    "Recovered": 829,
+    "Deaths": 90
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "South Africa",
+    "Confirmed": 111796,
+    "Recovered": 56874,
+    "Deaths": 2205
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "South Sudan",
+    "Confirmed": 1942,
+    "Recovered": 224,
+    "Deaths": 36
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Spain",
+    "Confirmed": 247086,
+    "Recovered": 150376,
+    "Deaths": 28327
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Sri Lanka",
+    "Confirmed": 2001,
+    "Recovered": 1562,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Sudan",
+    "Confirmed": 8889,
+    "Recovered": 3699,
+    "Deaths": 548
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Suriname",
+    "Confirmed": 357,
+    "Recovered": 154,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Sweden",
+    "Confirmed": 62324,
+    "Recovered": 0,
+    "Deaths": 5209
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Switzerland",
+    "Confirmed": 31376,
+    "Recovered": 29000,
+    "Deaths": 1958
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Syria",
+    "Confirmed": 231,
+    "Recovered": 94,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Taiwan*",
+    "Confirmed": 446,
+    "Recovered": 435,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Tajikistan",
+    "Confirmed": 5630,
+    "Recovered": 4194,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Tanzania",
+    "Confirmed": 509,
+    "Recovered": 183,
+    "Deaths": 21
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Thailand",
+    "Confirmed": 3158,
+    "Recovered": 3038,
+    "Deaths": 58
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Timor-Leste",
+    "Confirmed": 24,
+    "Recovered": 24,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Togo",
+    "Confirmed": 583,
+    "Recovered": 392,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Trinidad and Tobago",
+    "Confirmed": 123,
+    "Recovered": 109,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Tunisia",
+    "Confirmed": 1160,
+    "Recovered": 1023,
+    "Deaths": 50
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Turkey",
+    "Confirmed": 191657,
+    "Recovered": 164234,
+    "Deaths": 5025
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "US",
+    "Confirmed": 2382327,
+    "Recovered": 656161,
+    "Deaths": 121985
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Uganda",
+    "Confirmed": 805,
+    "Recovered": 717,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Ukraine",
+    "Confirmed": 39852,
+    "Recovered": 18009,
+    "Deaths": 1061
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "United Arab Emirates",
+    "Confirmed": 46133,
+    "Recovered": 34405,
+    "Deaths": 307
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "United Kingdom",
+    "Confirmed": 308337,
+    "Recovered": 1345,
+    "Deaths": 43165
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Uruguay",
+    "Confirmed": 902,
+    "Recovered": 815,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Uzbekistan",
+    "Confirmed": 6990,
+    "Recovered": 4685,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Venezuela",
+    "Confirmed": 4366,
+    "Recovered": 1327,
+    "Deaths": 38
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Vietnam",
+    "Confirmed": 352,
+    "Recovered": 329,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "West Bank and Gaza",
+    "Confirmed": 1328,
+    "Recovered": 442,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Western Sahara",
+    "Confirmed": 10,
+    "Recovered": 8,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Yemen",
+    "Confirmed": 1015,
+    "Recovered": 379,
+    "Deaths": 274
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Zambia",
+    "Confirmed": 1489,
+    "Recovered": 1223,
+    "Deaths": 18
+  },
+  {
+    "Date": "2020-06-24",
+    "Country": "Zimbabwe",
+    "Confirmed": 530,
+    "Recovered": 123,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Afghanistan",
+    "Confirmed": 30175,
+    "Recovered": 10174,
+    "Deaths": 675
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Albania",
+    "Confirmed": 2192,
+    "Recovered": 1250,
+    "Deaths": 49
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Algeria",
+    "Confirmed": 12445,
+    "Recovered": 8920,
+    "Deaths": 878
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Andorra",
+    "Confirmed": 855,
+    "Recovered": 797,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Angola",
+    "Confirmed": 212,
+    "Recovered": 81,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Antigua and Barbuda",
+    "Confirmed": 65,
+    "Recovered": 22,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Argentina",
+    "Confirmed": 52457,
+    "Recovered": 14788,
+    "Deaths": 1150
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Armenia",
+    "Confirmed": 22488,
+    "Recovered": 11335,
+    "Deaths": 397
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Australia",
+    "Confirmed": 7595,
+    "Recovered": 6958,
+    "Deaths": 104
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Austria",
+    "Confirmed": 17477,
+    "Recovered": 16320,
+    "Deaths": 698
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Azerbaijan",
+    "Confirmed": 14852,
+    "Recovered": 8059,
+    "Deaths": 180
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bahamas",
+    "Confirmed": 104,
+    "Recovered": 84,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bahrain",
+    "Confirmed": 24081,
+    "Recovered": 18501,
+    "Deaths": 71
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bangladesh",
+    "Confirmed": 126606,
+    "Recovered": 51495,
+    "Deaths": 1621
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Barbados",
+    "Confirmed": 97,
+    "Recovered": 85,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Belarus",
+    "Confirmed": 60382,
+    "Recovered": 41448,
+    "Deaths": 367
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Belgium",
+    "Confirmed": 61007,
+    "Recovered": 16890,
+    "Deaths": 9726
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Belize",
+    "Confirmed": 23,
+    "Recovered": 17,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Benin",
+    "Confirmed": 1017,
+    "Recovered": 288,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bhutan",
+    "Confirmed": 70,
+    "Recovered": 34,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bolivia",
+    "Confirmed": 28503,
+    "Recovered": 7338,
+    "Deaths": 913
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bosnia and Herzegovina",
+    "Confirmed": 3796,
+    "Recovered": 2322,
+    "Deaths": 175
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Botswana",
+    "Confirmed": 92,
+    "Recovered": 25,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Brazil",
+    "Confirmed": 1228114,
+    "Recovered": 679524,
+    "Deaths": 54971
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Brunei",
+    "Confirmed": 141,
+    "Recovered": 138,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Bulgaria",
+    "Confirmed": 4408,
+    "Recovered": 2370,
+    "Deaths": 211
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Burkina Faso",
+    "Confirmed": 934,
+    "Recovered": 826,
+    "Deaths": 53
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Burma",
+    "Confirmed": 293,
+    "Recovered": 211,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Burundi",
+    "Confirmed": 144,
+    "Recovered": 93,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Cabo Verde",
+    "Confirmed": 1003,
+    "Recovered": 562,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Cambodia",
+    "Confirmed": 130,
+    "Recovered": 127,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Cameroon",
+    "Confirmed": 12592,
+    "Recovered": 10100,
+    "Deaths": 313
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Canada",
+    "Confirmed": 104463,
+    "Recovered": 66869,
+    "Deaths": 8567
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Central African Republic",
+    "Confirmed": 3244,
+    "Recovered": 607,
+    "Deaths": 40
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Chad",
+    "Confirmed": 863,
+    "Recovered": 774,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Chile",
+    "Confirmed": 259064,
+    "Recovered": 219327,
+    "Deaths": 4903
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "China",
+    "Confirmed": 84701,
+    "Recovered": 79572,
+    "Deaths": 4641
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Colombia",
+    "Confirmed": 77313,
+    "Recovered": 31729,
+    "Deaths": 2611
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Comoros",
+    "Confirmed": 272,
+    "Recovered": 161,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Congo (Brazzaville)",
+    "Confirmed": 1087,
+    "Recovered": 456,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Congo (Kinshasa)",
+    "Confirmed": 6411,
+    "Recovered": 885,
+    "Deaths": 142
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Costa Rica",
+    "Confirmed": 2684,
+    "Recovered": 1227,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Cote d'Ivoire",
+    "Confirmed": 8334,
+    "Recovered": 3487,
+    "Deaths": 60
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Croatia",
+    "Confirmed": 2483,
+    "Recovered": 2149,
+    "Deaths": 107
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Cuba",
+    "Confirmed": 2321,
+    "Recovered": 2171,
+    "Deaths": 85
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Cyprus",
+    "Confirmed": 992,
+    "Recovered": 824,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Czechia",
+    "Confirmed": 10870,
+    "Recovered": 7649,
+    "Deaths": 345
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Denmark",
+    "Confirmed": 12836,
+    "Recovered": 11660,
+    "Deaths": 603
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Diamond Princess",
+    "Confirmed": 712,
+    "Recovered": 651,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Djibouti",
+    "Confirmed": 4635,
+    "Recovered": 4269,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Dominica",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Dominican Republic",
+    "Confirmed": 29141,
+    "Recovered": 16223,
+    "Deaths": 698
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Ecuador",
+    "Confirmed": 53156,
+    "Recovered": 26097,
+    "Deaths": 4343
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Egypt",
+    "Confirmed": 61130,
+    "Recovered": 16338,
+    "Deaths": 2533
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "El Salvador",
+    "Confirmed": 5336,
+    "Recovered": 3116,
+    "Deaths": 126
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Equatorial Guinea",
+    "Confirmed": 2001,
+    "Recovered": 515,
+    "Deaths": 32
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Eritrea",
+    "Confirmed": 144,
+    "Recovered": 39,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Estonia",
+    "Confirmed": 1984,
+    "Recovered": 1790,
+    "Deaths": 69
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Eswatini",
+    "Confirmed": 706,
+    "Recovered": 347,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Ethiopia",
+    "Confirmed": 5175,
+    "Recovered": 1544,
+    "Deaths": 81
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Fiji",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Finland",
+    "Confirmed": 7172,
+    "Recovered": 6600,
+    "Deaths": 327
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "France",
+    "Confirmed": 197885,
+    "Recovered": 75475,
+    "Deaths": 29755
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Gabon",
+    "Confirmed": 5087,
+    "Recovered": 2270,
+    "Deaths": 40
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Gambia",
+    "Confirmed": 43,
+    "Recovered": 26,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Georgia",
+    "Confirmed": 917,
+    "Recovered": 776,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Germany",
+    "Confirmed": 193371,
+    "Recovered": 176764,
+    "Deaths": 8940
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Ghana",
+    "Confirmed": 15473,
+    "Recovered": 11431,
+    "Deaths": 95
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Greece",
+    "Confirmed": 3321,
+    "Recovered": 1374,
+    "Deaths": 191
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Grenada",
+    "Confirmed": 23,
+    "Recovered": 23,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Guatemala",
+    "Confirmed": 15619,
+    "Recovered": 2949,
+    "Deaths": 623
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Guinea",
+    "Confirmed": 5174,
+    "Recovered": 3861,
+    "Deaths": 29
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Guinea-Bissau",
+    "Confirmed": 1556,
+    "Recovered": 191,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Guyana",
+    "Confirmed": 215,
+    "Recovered": 108,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Haiti",
+    "Confirmed": 5543,
+    "Recovered": 512,
+    "Deaths": 96
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Holy See",
+    "Confirmed": 12,
+    "Recovered": 12,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Honduras",
+    "Confirmed": 15366,
+    "Recovered": 1600,
+    "Deaths": 426
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Hungary",
+    "Confirmed": 4123,
+    "Recovered": 2640,
+    "Deaths": 577
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Iceland",
+    "Confirmed": 1830,
+    "Recovered": 1811,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "India",
+    "Confirmed": 490401,
+    "Recovered": 285637,
+    "Deaths": 15301
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Indonesia",
+    "Confirmed": 50187,
+    "Recovered": 20449,
+    "Deaths": 2620
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Iran",
+    "Confirmed": 215096,
+    "Recovered": 175103,
+    "Deaths": 10130
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Iraq",
+    "Confirmed": 39139,
+    "Recovered": 18051,
+    "Deaths": 1437
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Ireland",
+    "Confirmed": 25405,
+    "Recovered": 23364,
+    "Deaths": 1727
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Israel",
+    "Confirmed": 22400,
+    "Recovered": 16007,
+    "Deaths": 309
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Italy",
+    "Confirmed": 239706,
+    "Recovered": 186725,
+    "Deaths": 34678
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Jamaica",
+    "Confirmed": 684,
+    "Recovered": 526,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Japan",
+    "Confirmed": 18055,
+    "Recovered": 16142,
+    "Deaths": 971
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Jordan",
+    "Confirmed": 1086,
+    "Recovered": 797,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Kazakhstan",
+    "Confirmed": 19750,
+    "Recovered": 12220,
+    "Deaths": 140
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Kenya",
+    "Confirmed": 5384,
+    "Recovered": 1857,
+    "Deaths": 132
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Korea, South",
+    "Confirmed": 12602,
+    "Recovered": 11172,
+    "Deaths": 282
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Kosovo",
+    "Confirmed": 2169,
+    "Recovered": 1047,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Kuwait",
+    "Confirmed": 42788,
+    "Recovered": 33367,
+    "Deaths": 339
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Kyrgyzstan",
+    "Confirmed": 4204,
+    "Recovered": 2162,
+    "Deaths": 43
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Laos",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Latvia",
+    "Confirmed": 1111,
+    "Recovered": 903,
+    "Deaths": 30
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Lebanon",
+    "Confirmed": 1662,
+    "Recovered": 1144,
+    "Deaths": 33
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Lesotho",
+    "Confirmed": 17,
+    "Recovered": 2,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Liberia",
+    "Confirmed": 681,
+    "Recovered": 278,
+    "Deaths": 34
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Libya",
+    "Confirmed": 698,
+    "Recovered": 140,
+    "Deaths": 18
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Liechtenstein",
+    "Confirmed": 82,
+    "Recovered": 81,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Lithuania",
+    "Confirmed": 1806,
+    "Recovered": 1494,
+    "Deaths": 78
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Luxembourg",
+    "Confirmed": 4151,
+    "Recovered": 3968,
+    "Deaths": 110
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "MS Zaandam",
+    "Confirmed": 9,
+    "Recovered": 0,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Madagascar",
+    "Confirmed": 1829,
+    "Recovered": 823,
+    "Deaths": 16
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Malawi",
+    "Confirmed": 960,
+    "Recovered": 260,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Malaysia",
+    "Confirmed": 8600,
+    "Recovered": 8271,
+    "Deaths": 121
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Maldives",
+    "Confirmed": 2277,
+    "Recovered": 1848,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Mali",
+    "Confirmed": 2039,
+    "Recovered": 1383,
+    "Deaths": 113
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Malta",
+    "Confirmed": 668,
+    "Recovered": 627,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Mauritania",
+    "Confirmed": 3739,
+    "Recovered": 1225,
+    "Deaths": 119
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Mauritius",
+    "Confirmed": 341,
+    "Recovered": 326,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Mexico",
+    "Confirmed": 202951,
+    "Recovered": 152362,
+    "Deaths": 25060
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Moldova",
+    "Confirmed": 15453,
+    "Recovered": 8599,
+    "Deaths": 502
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Monaco",
+    "Confirmed": 102,
+    "Recovered": 95,
+    "Deaths": 4
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Mongolia",
+    "Confirmed": 219,
+    "Recovered": 170,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Montenegro",
+    "Confirmed": 414,
+    "Recovered": 315,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Morocco",
+    "Confirmed": 11338,
+    "Recovered": 8500,
+    "Deaths": 217
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Mozambique",
+    "Confirmed": 788,
+    "Recovered": 221,
+    "Deaths": 5
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Namibia",
+    "Confirmed": 102,
+    "Recovered": 21,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Nepal",
+    "Confirmed": 11162,
+    "Recovered": 2650,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Netherlands",
+    "Confirmed": 50122,
+    "Recovered": 186,
+    "Deaths": 6119
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "New Zealand",
+    "Confirmed": 1520,
+    "Recovered": 1484,
+    "Deaths": 22
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Nicaragua",
+    "Confirmed": 2170,
+    "Recovered": 1238,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Niger",
+    "Confirmed": 1056,
+    "Recovered": 917,
+    "Deaths": 67
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Nigeria",
+    "Confirmed": 22614,
+    "Recovered": 7822,
+    "Deaths": 549
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "North Macedonia",
+    "Confirmed": 5595,
+    "Recovered": 2166,
+    "Deaths": 265
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Norway",
+    "Confirmed": 8788,
+    "Recovered": 8138,
+    "Deaths": 249
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Oman",
+    "Confirmed": 34902,
+    "Recovered": 18520,
+    "Deaths": 144
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Pakistan",
+    "Confirmed": 195745,
+    "Recovered": 84168,
+    "Deaths": 3962
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Panama",
+    "Confirmed": 29037,
+    "Recovered": 14800,
+    "Deaths": 564
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Papua New Guinea",
+    "Confirmed": 10,
+    "Recovered": 8,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Paraguay",
+    "Confirmed": 1569,
+    "Recovered": 976,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Peru",
+    "Confirmed": 268602,
+    "Recovered": 151225,
+    "Deaths": 8761
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Philippines",
+    "Confirmed": 33069,
+    "Recovered": 8910,
+    "Deaths": 1212
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Poland",
+    "Confirmed": 33119,
+    "Recovered": 18654,
+    "Deaths": 1412
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Portugal",
+    "Confirmed": 40415,
+    "Recovered": 26382,
+    "Deaths": 1549
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Qatar",
+    "Confirmed": 91838,
+    "Recovered": 74544,
+    "Deaths": 106
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Romania",
+    "Confirmed": 25286,
+    "Recovered": 17906,
+    "Deaths": 1565
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Russia",
+    "Confirmed": 613148,
+    "Recovered": 374557,
+    "Deaths": 8594
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Rwanda",
+    "Confirmed": 850,
+    "Recovered": 385,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Saint Kitts and Nevis",
+    "Confirmed": 15,
+    "Recovered": 15,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Saint Lucia",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Saint Vincent and the Grenadines",
+    "Confirmed": 29,
+    "Recovered": 29,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "San Marino",
+    "Confirmed": 698,
+    "Recovered": 653,
+    "Deaths": 42
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Sao Tome and Principe",
+    "Confirmed": 711,
+    "Recovered": 214,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Saudi Arabia",
+    "Confirmed": 170639,
+    "Recovered": 117882,
+    "Deaths": 1428
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Senegal",
+    "Confirmed": 6233,
+    "Recovered": 4162,
+    "Deaths": 94
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Serbia",
+    "Confirmed": 13372,
+    "Recovered": 12154,
+    "Deaths": 264
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Seychelles",
+    "Confirmed": 11,
+    "Recovered": 11,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Sierra Leone",
+    "Confirmed": 1354,
+    "Recovered": 869,
+    "Deaths": 56
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Singapore",
+    "Confirmed": 42736,
+    "Recovered": 36604,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Slovakia",
+    "Confirmed": 1630,
+    "Recovered": 1452,
+    "Deaths": 28
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Slovenia",
+    "Confirmed": 1547,
+    "Recovered": 1376,
+    "Deaths": 109
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Somalia",
+    "Confirmed": 2878,
+    "Recovered": 868,
+    "Deaths": 90
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "South Africa",
+    "Confirmed": 118375,
+    "Recovered": 59974,
+    "Deaths": 2292
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "South Sudan",
+    "Confirmed": 1942,
+    "Recovered": 224,
+    "Deaths": 36
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Spain",
+    "Confirmed": 247486,
+    "Recovered": 150376,
+    "Deaths": 28330
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Sri Lanka",
+    "Confirmed": 2010,
+    "Recovered": 1602,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Sudan",
+    "Confirmed": 8984,
+    "Recovered": 3806,
+    "Deaths": 556
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Suriname",
+    "Confirmed": 373,
+    "Recovered": 176,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Sweden",
+    "Confirmed": 63890,
+    "Recovered": 0,
+    "Deaths": 5230
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Switzerland",
+    "Confirmed": 31428,
+    "Recovered": 29000,
+    "Deaths": 1958
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Syria",
+    "Confirmed": 242,
+    "Recovered": 96,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Taiwan*",
+    "Confirmed": 447,
+    "Recovered": 435,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Tajikistan",
+    "Confirmed": 5691,
+    "Recovered": 4267,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Tanzania",
+    "Confirmed": 509,
+    "Recovered": 183,
+    "Deaths": 21
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Thailand",
+    "Confirmed": 3158,
+    "Recovered": 3038,
+    "Deaths": 58
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Timor-Leste",
+    "Confirmed": 24,
+    "Recovered": 24,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Togo",
+    "Confirmed": 588,
+    "Recovered": 394,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Trinidad and Tobago",
+    "Confirmed": 123,
+    "Recovered": 109,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Tunisia",
+    "Confirmed": 1162,
+    "Recovered": 1023,
+    "Deaths": 50
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Turkey",
+    "Confirmed": 193115,
+    "Recovered": 165706,
+    "Deaths": 5046
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "US",
+    "Confirmed": 2422299,
+    "Recovered": 663562,
+    "Deaths": 124410
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Uganda",
+    "Confirmed": 821,
+    "Recovered": 731,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Ukraine",
+    "Confirmed": 40854,
+    "Recovered": 18365,
+    "Deaths": 1078
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "United Arab Emirates",
+    "Confirmed": 46563,
+    "Recovered": 35165,
+    "Deaths": 308
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "United Kingdom",
+    "Confirmed": 309455,
+    "Recovered": 1361,
+    "Deaths": 43314
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Uruguay",
+    "Confirmed": 907,
+    "Recovered": 818,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Uzbekistan",
+    "Confirmed": 7177,
+    "Recovered": 4877,
+    "Deaths": 20
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Venezuela",
+    "Confirmed": 4563,
+    "Recovered": 1327,
+    "Deaths": 39
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Vietnam",
+    "Confirmed": 352,
+    "Recovered": 329,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "West Bank and Gaza",
+    "Confirmed": 1382,
+    "Recovered": 446,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Western Sahara",
+    "Confirmed": 10,
+    "Recovered": 8,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Yemen",
+    "Confirmed": 1076,
+    "Recovered": 386,
+    "Deaths": 288
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Zambia",
+    "Confirmed": 1497,
+    "Recovered": 1223,
+    "Deaths": 18
+  },
+  {
+    "Date": "2020-06-25",
+    "Country": "Zimbabwe",
+    "Confirmed": 551,
+    "Recovered": 128,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Afghanistan",
+    "Confirmed": 30451,
+    "Recovered": 10306,
+    "Deaths": 683
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Albania",
+    "Confirmed": 2269,
+    "Recovered": 1298,
+    "Deaths": 51
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Algeria",
+    "Confirmed": 12685,
+    "Recovered": 9066,
+    "Deaths": 885
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Andorra",
+    "Confirmed": 855,
+    "Recovered": 799,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Angola",
+    "Confirmed": 212,
+    "Recovered": 81,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Antigua and Barbuda",
+    "Confirmed": 65,
+    "Recovered": 22,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Argentina",
+    "Confirmed": 55343,
+    "Recovered": 18416,
+    "Deaths": 1184
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Armenia",
+    "Confirmed": 23247,
+    "Recovered": 12149,
+    "Deaths": 410
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Australia",
+    "Confirmed": 7601,
+    "Recovered": 6960,
+    "Deaths": 104
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Austria",
+    "Confirmed": 17522,
+    "Recovered": 16348,
+    "Deaths": 698
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Azerbaijan",
+    "Confirmed": 15369,
+    "Recovered": 8364,
+    "Deaths": 187
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bahamas",
+    "Confirmed": 104,
+    "Recovered": 84,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bahrain",
+    "Confirmed": 24805,
+    "Recovered": 19137,
+    "Deaths": 73
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bangladesh",
+    "Confirmed": 130474,
+    "Recovered": 53133,
+    "Deaths": 1661
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Barbados",
+    "Confirmed": 97,
+    "Recovered": 90,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Belarus",
+    "Confirmed": 60713,
+    "Recovered": 42689,
+    "Deaths": 373
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Belgium",
+    "Confirmed": 61106,
+    "Recovered": 16918,
+    "Deaths": 9731
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Belize",
+    "Confirmed": 24,
+    "Recovered": 18,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Benin",
+    "Confirmed": 1053,
+    "Recovered": 292,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bhutan",
+    "Confirmed": 70,
+    "Recovered": 38,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bolivia",
+    "Confirmed": 29423,
+    "Recovered": 7736,
+    "Deaths": 934
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bosnia and Herzegovina",
+    "Confirmed": 3935,
+    "Recovered": 2338,
+    "Deaths": 178
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Botswana",
+    "Confirmed": 92,
+    "Recovered": 25,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Brazil",
+    "Confirmed": 1274974,
+    "Recovered": 702399,
+    "Deaths": 55961
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Brunei",
+    "Confirmed": 141,
+    "Recovered": 138,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Bulgaria",
+    "Confirmed": 4513,
+    "Recovered": 2457,
+    "Deaths": 215
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Burkina Faso",
+    "Confirmed": 941,
+    "Recovered": 830,
+    "Deaths": 53
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Burma",
+    "Confirmed": 293,
+    "Recovered": 215,
+    "Deaths": 6
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Burundi",
+    "Confirmed": 144,
+    "Recovered": 93,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Cabo Verde",
+    "Confirmed": 1027,
+    "Recovered": 568,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Cambodia",
+    "Confirmed": 139,
+    "Recovered": 129,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Cameroon",
+    "Confirmed": 12592,
+    "Recovered": 10100,
+    "Deaths": 313
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Canada",
+    "Confirmed": 104629,
+    "Recovered": 67182,
+    "Deaths": 8571
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Central African Republic",
+    "Confirmed": 3340,
+    "Recovered": 661,
+    "Deaths": 40
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Chad",
+    "Confirmed": 865,
+    "Recovered": 778,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Chile",
+    "Confirmed": 263360,
+    "Recovered": 223431,
+    "Deaths": 5068
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "China",
+    "Confirmed": 84725,
+    "Recovered": 79580,
+    "Deaths": 4641
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Colombia",
+    "Confirmed": 80811,
+    "Recovered": 33410,
+    "Deaths": 2786
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Comoros",
+    "Confirmed": 272,
+    "Recovered": 161,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Congo (Brazzaville)",
+    "Confirmed": 1087,
+    "Recovered": 456,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Congo (Kinshasa)",
+    "Confirmed": 6552,
+    "Recovered": 900,
+    "Deaths": 149
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Costa Rica",
+    "Confirmed": 2836,
+    "Recovered": 1280,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Cote d'Ivoire",
+    "Confirmed": 8739,
+    "Recovered": 3587,
+    "Deaths": 64
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Croatia",
+    "Confirmed": 2539,
+    "Recovered": 2150,
+    "Deaths": 107
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Cuba",
+    "Confirmed": 2325,
+    "Recovered": 2180,
+    "Deaths": 85
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Cyprus",
+    "Confirmed": 992,
+    "Recovered": 824,
+    "Deaths": 19
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Czechia",
+    "Confirmed": 11038,
+    "Recovered": 7668,
+    "Deaths": 349
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Denmark",
+    "Confirmed": 12875,
+    "Recovered": 11708,
+    "Deaths": 604
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Diamond Princess",
+    "Confirmed": 712,
+    "Recovered": 651,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Djibouti",
+    "Confirmed": 4643,
+    "Recovered": 4348,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Dominica",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Dominican Republic",
+    "Confirmed": 29764,
+    "Recovered": 16357,
+    "Deaths": 712
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Ecuador",
+    "Confirmed": 53856,
+    "Recovered": 26493,
+    "Deaths": 4406
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Egypt",
+    "Confirmed": 62755,
+    "Recovered": 16737,
+    "Deaths": 2620
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "El Salvador",
+    "Confirmed": 5517,
+    "Recovered": 3291,
+    "Deaths": 133
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Equatorial Guinea",
+    "Confirmed": 2001,
+    "Recovered": 515,
+    "Deaths": 32
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Eritrea",
+    "Confirmed": 167,
+    "Recovered": 53,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Estonia",
+    "Confirmed": 1986,
+    "Recovered": 1797,
+    "Deaths": 69
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Eswatini",
+    "Confirmed": 728,
+    "Recovered": 367,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Ethiopia",
+    "Confirmed": 5425,
+    "Recovered": 1688,
+    "Deaths": 89
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Fiji",
+    "Confirmed": 18,
+    "Recovered": 18,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Finland",
+    "Confirmed": 7191,
+    "Recovered": 6600,
+    "Deaths": 328
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "France",
+    "Confirmed": 199473,
+    "Recovered": 75773,
+    "Deaths": 29781
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Gabon",
+    "Confirmed": 5209,
+    "Recovered": 2327,
+    "Deaths": 40
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Gambia",
+    "Confirmed": 43,
+    "Recovered": 26,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Georgia",
+    "Confirmed": 919,
+    "Recovered": 780,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Germany",
+    "Confirmed": 194036,
+    "Recovered": 177149,
+    "Deaths": 8965
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Ghana",
+    "Confirmed": 15834,
+    "Recovered": 11755,
+    "Deaths": 103
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Greece",
+    "Confirmed": 3343,
+    "Recovered": 1374,
+    "Deaths": 191
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Grenada",
+    "Confirmed": 23,
+    "Recovered": 23,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Guatemala",
+    "Confirmed": 15828,
+    "Recovered": 3028,
+    "Deaths": 672
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Guinea",
+    "Confirmed": 5260,
+    "Recovered": 4155,
+    "Deaths": 29
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Guinea-Bissau",
+    "Confirmed": 1614,
+    "Recovered": 191,
+    "Deaths": 22
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Guyana",
+    "Confirmed": 215,
+    "Recovered": 108,
+    "Deaths": 12
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Haiti",
+    "Confirmed": 5722,
+    "Recovered": 641,
+    "Deaths": 98
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Holy See",
+    "Confirmed": 12,
+    "Recovered": 12,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Honduras",
+    "Confirmed": 15994,
+    "Recovered": 1678,
+    "Deaths": 471
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Hungary",
+    "Confirmed": 4127,
+    "Recovered": 2663,
+    "Deaths": 578
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Iceland",
+    "Confirmed": 1832,
+    "Recovered": 1813,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "India",
+    "Confirmed": 508953,
+    "Recovered": 295881,
+    "Deaths": 15685
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Indonesia",
+    "Confirmed": 51427,
+    "Recovered": 21333,
+    "Deaths": 2683
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Iran",
+    "Confirmed": 217724,
+    "Recovered": 177852,
+    "Deaths": 10239
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Iraq",
+    "Confirmed": 41193,
+    "Recovered": 18859,
+    "Deaths": 1559
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Ireland",
+    "Confirmed": 25414,
+    "Recovered": 23364,
+    "Deaths": 1730
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Israel",
+    "Confirmed": 22800,
+    "Recovered": 16872,
+    "Deaths": 314
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Italy",
+    "Confirmed": 239961,
+    "Recovered": 187615,
+    "Deaths": 34708
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Jamaica",
+    "Confirmed": 686,
+    "Recovered": 539,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Japan",
+    "Confirmed": 18162,
+    "Recovered": 16224,
+    "Deaths": 971
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Jordan",
+    "Confirmed": 1104,
+    "Recovered": 830,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Kazakhstan",
+    "Confirmed": 20319,
+    "Recovered": 12548,
+    "Deaths": 150
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Kenya",
+    "Confirmed": 5533,
+    "Recovered": 1905,
+    "Deaths": 137
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Korea, South",
+    "Confirmed": 12653,
+    "Recovered": 11317,
+    "Deaths": 282
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Kosovo",
+    "Confirmed": 2169,
+    "Recovered": 1047,
+    "Deaths": 37
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Kuwait",
+    "Confirmed": 43703,
+    "Recovered": 33969,
+    "Deaths": 341
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Kyrgyzstan",
+    "Confirmed": 4446,
+    "Recovered": 2194,
+    "Deaths": 46
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Laos",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Latvia",
+    "Confirmed": 1112,
+    "Recovered": 932,
+    "Deaths": 30
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Lebanon",
+    "Confirmed": 1697,
+    "Recovered": 1144,
+    "Deaths": 33
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Lesotho",
+    "Confirmed": 24,
+    "Recovered": 4,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Liberia",
+    "Confirmed": 684,
+    "Recovered": 285,
+    "Deaths": 34
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Libya",
+    "Confirmed": 713,
+    "Recovered": 142,
+    "Deaths": 18
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Liechtenstein",
+    "Confirmed": 82,
+    "Recovered": 81,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Lithuania",
+    "Confirmed": 1808,
+    "Recovered": 1501,
+    "Deaths": 78
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Luxembourg",
+    "Confirmed": 4173,
+    "Recovered": 3968,
+    "Deaths": 110
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "MS Zaandam",
+    "Confirmed": 9,
+    "Recovered": 0,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Madagascar",
+    "Confirmed": 1922,
+    "Recovered": 862,
+    "Deaths": 16
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Malawi",
+    "Confirmed": 1005,
+    "Recovered": 260,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Malaysia",
+    "Confirmed": 8606,
+    "Recovered": 8294,
+    "Deaths": 121
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Maldives",
+    "Confirmed": 2283,
+    "Recovered": 1863,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Mali",
+    "Confirmed": 2060,
+    "Recovered": 1387,
+    "Deaths": 113
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Malta",
+    "Confirmed": 670,
+    "Recovered": 632,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Mauritania",
+    "Confirmed": 3907,
+    "Recovered": 1280,
+    "Deaths": 120
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Mauritius",
+    "Confirmed": 341,
+    "Recovered": 326,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Mexico",
+    "Confirmed": 208392,
+    "Recovered": 156827,
+    "Deaths": 25779
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Moldova",
+    "Confirmed": 15776,
+    "Recovered": 8765,
+    "Deaths": 515
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Monaco",
+    "Confirmed": 102,
+    "Recovered": 95,
+    "Deaths": 4
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Mongolia",
+    "Confirmed": 219,
+    "Recovered": 175,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Montenegro",
+    "Confirmed": 439,
+    "Recovered": 315,
+    "Deaths": 9
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Morocco",
+    "Confirmed": 11633,
+    "Recovered": 8656,
+    "Deaths": 218
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Mozambique",
+    "Confirmed": 816,
+    "Recovered": 223,
+    "Deaths": 5
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Namibia",
+    "Confirmed": 121,
+    "Recovered": 22,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Nepal",
+    "Confirmed": 11755,
+    "Recovered": 2698,
+    "Deaths": 27
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Netherlands",
+    "Confirmed": 50213,
+    "Recovered": 186,
+    "Deaths": 6122
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "New Zealand",
+    "Confirmed": 1522,
+    "Recovered": 1484,
+    "Deaths": 22
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Nicaragua",
+    "Confirmed": 2170,
+    "Recovered": 1238,
+    "Deaths": 74
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Niger",
+    "Confirmed": 1059,
+    "Recovered": 919,
+    "Deaths": 67
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Nigeria",
+    "Confirmed": 23298,
+    "Recovered": 8253,
+    "Deaths": 554
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "North Macedonia",
+    "Confirmed": 5758,
+    "Recovered": 2206,
+    "Deaths": 268
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Norway",
+    "Confirmed": 8832,
+    "Recovered": 8138,
+    "Deaths": 249
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Oman",
+    "Confirmed": 36034,
+    "Recovered": 19482,
+    "Deaths": 153
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Pakistan",
+    "Confirmed": 198883,
+    "Recovered": 86906,
+    "Deaths": 4035
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Panama",
+    "Confirmed": 29905,
+    "Recovered": 15270,
+    "Deaths": 575
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Papua New Guinea",
+    "Confirmed": 11,
+    "Recovered": 8,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Paraguay",
+    "Confirmed": 1711,
+    "Recovered": 1013,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Peru",
+    "Confirmed": 272364,
+    "Recovered": 159806,
+    "Deaths": 8939
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Philippines",
+    "Confirmed": 34073,
+    "Recovered": 9182,
+    "Deaths": 1224
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Poland",
+    "Confirmed": 33395,
+    "Recovered": 19218,
+    "Deaths": 1429
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Portugal",
+    "Confirmed": 40866,
+    "Recovered": 26633,
+    "Deaths": 1555
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Qatar",
+    "Confirmed": 92784,
+    "Recovered": 76072,
+    "Deaths": 109
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Romania",
+    "Confirmed": 25697,
+    "Recovered": 18181,
+    "Deaths": 1579
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Russia",
+    "Confirmed": 619936,
+    "Recovered": 383524,
+    "Deaths": 8770
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Rwanda",
+    "Confirmed": 858,
+    "Recovered": 398,
+    "Deaths": 2
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Saint Kitts and Nevis",
+    "Confirmed": 15,
+    "Recovered": 15,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Saint Lucia",
+    "Confirmed": 19,
+    "Recovered": 19,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Saint Vincent and the Grenadines",
+    "Confirmed": 29,
+    "Recovered": 29,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "San Marino",
+    "Confirmed": 698,
+    "Recovered": 656,
+    "Deaths": 42
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Sao Tome and Principe",
+    "Confirmed": 712,
+    "Recovered": 219,
+    "Deaths": 13
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Saudi Arabia",
+    "Confirmed": 174577,
+    "Recovered": 120471,
+    "Deaths": 1474
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Senegal",
+    "Confirmed": 6354,
+    "Recovered": 4193,
+    "Deaths": 98
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Serbia",
+    "Confirmed": 13565,
+    "Recovered": 12232,
+    "Deaths": 265
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Seychelles",
+    "Confirmed": 11,
+    "Recovered": 11,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Sierra Leone",
+    "Confirmed": 1394,
+    "Recovered": 914,
+    "Deaths": 59
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Singapore",
+    "Confirmed": 42955,
+    "Recovered": 36825,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Slovakia",
+    "Confirmed": 1643,
+    "Recovered": 1455,
+    "Deaths": 28
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Slovenia",
+    "Confirmed": 1558,
+    "Recovered": 1376,
+    "Deaths": 109
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Somalia",
+    "Confirmed": 2878,
+    "Recovered": 868,
+    "Deaths": 90
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "South Africa",
+    "Confirmed": 124590,
+    "Recovered": 64111,
+    "Deaths": 2340
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "South Sudan",
+    "Confirmed": 1942,
+    "Recovered": 224,
+    "Deaths": 36
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Spain",
+    "Confirmed": 247905,
+    "Recovered": 150376,
+    "Deaths": 28338
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Sri Lanka",
+    "Confirmed": 2014,
+    "Recovered": 1619,
+    "Deaths": 11
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Sudan",
+    "Confirmed": 9257,
+    "Recovered": 4014,
+    "Deaths": 572
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Suriname",
+    "Confirmed": 389,
+    "Recovered": 181,
+    "Deaths": 10
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Sweden",
+    "Confirmed": 65137,
+    "Recovered": 0,
+    "Deaths": 5280
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Switzerland",
+    "Confirmed": 31486,
+    "Recovered": 29000,
+    "Deaths": 1962
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Syria",
+    "Confirmed": 255,
+    "Recovered": 102,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Taiwan*",
+    "Confirmed": 447,
+    "Recovered": 435,
+    "Deaths": 7
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Tajikistan",
+    "Confirmed": 5747,
+    "Recovered": 4331,
+    "Deaths": 52
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Tanzania",
+    "Confirmed": 509,
+    "Recovered": 183,
+    "Deaths": 21
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Thailand",
+    "Confirmed": 3162,
+    "Recovered": 3040,
+    "Deaths": 58
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Timor-Leste",
+    "Confirmed": 24,
+    "Recovered": 24,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Togo",
+    "Confirmed": 591,
+    "Recovered": 395,
+    "Deaths": 14
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Trinidad and Tobago",
+    "Confirmed": 124,
+    "Recovered": 109,
+    "Deaths": 8
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Tunisia",
+    "Confirmed": 1164,
+    "Recovered": 1023,
+    "Deaths": 50
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Turkey",
+    "Confirmed": 194511,
+    "Recovered": 167198,
+    "Deaths": 5065
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "US",
+    "Confirmed": 2467554,
+    "Recovered": 670809,
+    "Deaths": 125039
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Uganda",
+    "Confirmed": 833,
+    "Recovered": 761,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Ukraine",
+    "Confirmed": 41975,
+    "Recovered": 18927,
+    "Deaths": 1097
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "United Arab Emirates",
+    "Confirmed": 46973,
+    "Recovered": 35469,
+    "Deaths": 310
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "United Kingdom",
+    "Confirmed": 310836,
+    "Recovered": 1363,
+    "Deaths": 43498
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Uruguay",
+    "Confirmed": 919,
+    "Recovered": 818,
+    "Deaths": 26
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Uzbekistan",
+    "Confirmed": 7427,
+    "Recovered": 5038,
+    "Deaths": 20
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Venezuela",
+    "Confirmed": 4779,
+    "Recovered": 1327,
+    "Deaths": 41
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Vietnam",
+    "Confirmed": 353,
+    "Recovered": 330,
+    "Deaths": 0
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "West Bank and Gaza",
+    "Confirmed": 1557,
+    "Recovered": 446,
+    "Deaths": 3
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Western Sahara",
+    "Confirmed": 10,
+    "Recovered": 8,
+    "Deaths": 1
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Yemen",
+    "Confirmed": 1089,
+    "Recovered": 402,
+    "Deaths": 293
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Zambia",
+    "Confirmed": 1531,
+    "Recovered": 1233,
+    "Deaths": 21
+  },
+  {
+    "Date": "2020-06-26",
+    "Country": "Zimbabwe",
+    "Confirmed": 561,
+    "Recovered": 135,
     "Deaths": 6
   }
 ]
